@@ -1,0 +1,8 @@
+[package]
+name = "groupe-04-partie-2"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clap = "4.0.32"
+tokio = { version = "1", features = ["full"] }
